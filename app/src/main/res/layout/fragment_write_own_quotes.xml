@@ -94,7 +94,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:background="@drawable/button_design"
-        android:text="SUBMIT PAYMENT"
+        android:text="@string/submit"
         android:textColor="@color/white" />
 
 </LinearLayout>
